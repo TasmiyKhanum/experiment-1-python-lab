@@ -8,7 +8,6 @@ step 5 :Use a while loop to print numbers from 1 to 5.
 step 6 :Display the results.
 step 6 :Stop 
 # Experiment 2: Control Flow and Looping Statements
-
 # Control Flow (if-else)
 num = int(input("Enter a number: "))
 
