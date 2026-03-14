@@ -1,4 +1,6 @@
 Write a Python program to demonstrate Lists, Tuples, and Dictionaries.
+Aim:
+To write a Python program to demonstrate the use of Lists, Tuples, and Dictionaries in Python.
 Algorithm
 Step 1: Start the program.
 Step 2: Create a list with some elements.
