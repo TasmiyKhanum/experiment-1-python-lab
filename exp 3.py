@@ -1,5 +1,6 @@
-To write a Python program to create and use functions with parameters.
-
+write a Python program to create and use functions with parameters.
+Aim:
+To write a Python program to create and use functions with parameters in Python.
 Algorithm
 Step 1: Start the program.
 Step 2: Define a function to add two numbers.
