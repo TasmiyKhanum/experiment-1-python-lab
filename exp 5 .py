@@ -1,5 +1,7 @@
 Write a Python program to perform string operations.
-Algorithm
+Aim:
+To write a Python program to perform different string operations in Python.
+  Algorithm
 Step 1: Start the program.
 Step 2: Read a string from the user.
 Step 3: Find the length of the string using len() function.
