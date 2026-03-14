@@ -1,5 +1,6 @@
 Write a Python program to count the number of uppercase and lowercase characters in a string.
-
+Aim:
+To write a Python program to count the number of uppercase and lowercase characters in a string.
 Algorithm
 Step 1: Start the program.
 Step 2: Read a string from the user.
