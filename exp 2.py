@@ -1,4 +1,6 @@
 Write a Python program to demonstrate control flow statements and looping statements
+Aim:
+To write a Python program to demonstrate control statements such as if-else, for loop, and while loop in Python
 Algorithm
 step 1 :Start the program.
 step 2 :Enter a number from the user.
